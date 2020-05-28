@@ -1,5 +1,5 @@
 export const environment = {
-  production: false,
+  production: true,
   firebase: {
     apiKey: 'AIzaSyBTME7ld3ujHYO4FV9wWTD1koxVJG2UTVU',
     authDomain: 'firechat-ecea6.firebaseapp.com',
