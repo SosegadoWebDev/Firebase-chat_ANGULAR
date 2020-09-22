@@ -1,3 +1,5 @@
+![alt text](https://github.com/SosegadoWebDev/Firebase-chat_ANGULAR/blob/master/src/assets/localhost_4500_.png)
+
 # AngularFirechat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
